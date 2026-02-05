@@ -1,28 +1,6 @@
-// class Solution {
-//     public double myPow(double x, int n) {
-//         long N = n;
-//         if(n ==0) return 1; // base case 
-
-//         // converting negative value of n to positive (x/-n can be represented as 1/x(n) )
-//         if( n<0){   
-//             return 1/myPow(x,-n);
-//         }
-
-
-//         double ans =myPow(x,n/2);  // faith case my belife while each time it will divide by 2
-//         double bans =ans*ans;      // actual work / case 
-
-//         if(n%2 != 0){               // if n is a not even we should multiply ans with x
-//             return bans*x;          
-//         }
-//     return bans;                    // if n is even jst return answer
-//     }
-// }
-
-
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;          // convert to long
+        long N = n;              // convert int to long safely
         return power(x, N);
     }
 
@@ -34,12 +12,11 @@ class Solution {
         }
 
         double half = power(x, n / 2);
-        double result = half * half;
+        double ans = half * half;
 
         if (n % 2 != 0) {
-            result = result * x;
+            ans = ans * x;
         }
-
-        return result;
+        return ans;
     }
 }
