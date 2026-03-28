@@ -2,55 +2,38 @@ class Solution {
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> ans = new ArrayList<>();
         List<String> board = new ArrayList<>();
+        String s = ".".repeat(n);
         for(int i=0; i<n; i++){
-            char[] row = new char[n];
-            Arrays.fill(row, '.');
-            board.add(new String(row));
+            board.add(s);
         }
-        solve(0, ans, board, n);
-        return ans;      
+        int[] leftrow = new int[n];
+        int[] upperdiaganol = new int[2*n-1];
+        int[] lowerdiaganol = new int[2*n-1];
+        solve(0, board, ans, n, leftrow, upperdiaganol, lowerdiaganol);
+        return ans;        
     }
-    public void solve(int col, List<List<String>> ans, List<String> board, int n){
-        if(col ==n){
+    public void solve(int col, List<String> board, List<List<String>> ans, int n, int[] leftrow, int[] upperdiaganol, int[] lowerdiaganol){
+        if(col == n){
             ans.add(new ArrayList(board));
             return;
         }
-        for(int row=0;row<n;row++){
-            if(issafe(row,col, board, n)){
-                char[] rowArray = board.get(row).toCharArray();  
-                rowArray[col] = 'Q'; 
-                board.set(row, new String(rowArray));
-                solve(col+1, ans, board, n);
-                rowArray[col] = '.';
-                board.set(row, new String(rowArray));
+        for(int row=0; row<n; row++){
+            if(leftrow[row] == 0 && upperdiaganol[row+col] == 0 && lowerdiaganol[n-1+col-row] == 0){
+                char[] rowarray = board.get(row).toCharArray();
+                rowarray[col] = 'Q';
+                board.set(row, new String(rowarray));
+
+                leftrow[row]=1;
+                upperdiaganol[row+col]=1;
+                lowerdiaganol[n-1+col-row] = 1;
+
+                solve(col+1, board, ans, n, leftrow, upperdiaganol, lowerdiaganol);
+                rowarray[col] ='.';
+                board.set(row, new String(rowarray));
+                leftrow[row]=0;
+                upperdiaganol[row+col]=0;
+                lowerdiaganol[n-1+col-row] = 0;
             }
         }
-
-    }
-    public boolean issafe(int row, int col, List<String> board, int n){
-        int r = row; 
-        int c = col;
-        //upper diagonal
-        while(row >=0 && col >= 0){
-            if(board.get(row).charAt(col)=='Q') return false;
-            row--;
-            col--;
-        }
-        // left side
-        col =c;
-        row = r;
-        while(col >=0){
-            if(board.get(row).charAt(col)=='Q') return false;
-            col--;
-        }
-        //lower diagonal
-        col = c;
-        row = r;
-        while(row <n && col >= 0){
-            if(board.get(row).charAt(col)=='Q') return false;
-            row++;
-            col--;
-        }
-        return true;
     }
 }
