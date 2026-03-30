@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
