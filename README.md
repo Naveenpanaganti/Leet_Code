@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0693-binary-number-with-alternating-bits) |
 ## Backtracking
 |  |
