@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0037-sudoku-solver) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |
