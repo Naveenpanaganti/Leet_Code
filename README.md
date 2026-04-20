@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
