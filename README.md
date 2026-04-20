@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
 ## Bit Manipulation
 |  |
