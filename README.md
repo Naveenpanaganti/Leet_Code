@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
+| [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
@@ -125,13 +126,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
