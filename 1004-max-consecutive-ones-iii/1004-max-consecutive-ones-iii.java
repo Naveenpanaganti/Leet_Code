@@ -5,21 +5,18 @@ class Solution {
         int r=0;
         int zeros=0;
         int maxlen=0;
-        while(r<n){
+        for(r=0;r<n;r++){
             if(nums[r]== 0){
                 zeros++;
             }
             while(zeros>k){
                 if(nums[l] ==0){
                     zeros--;
-                } 
+                }
                 l++;
             }
-            if(zeros<=k){
-                int len = r-l+1;
-                maxlen = Math.max(len, maxlen);
-            }
-            r++;
+            int len = r-l+1;
+            maxlen = Math.max(len, maxlen);
         }
         return maxlen;
     }
