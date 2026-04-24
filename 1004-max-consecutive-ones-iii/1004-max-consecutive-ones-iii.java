@@ -4,9 +4,10 @@ class Solution {
         for(int r=0; r<n;r++){
             if(nums[r] == 0) zeros++;
 
-            if(zeros >k){
+            while(zeros >k){
                 if(nums[l] == 0) zeros--;
-                l++;    
+                l++;
+                
             }
             if(zeros<=k){
                 maxlen = Math.max(maxlen, r-l+1);
