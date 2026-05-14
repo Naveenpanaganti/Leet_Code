@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
+| [0217-contains-duplicate](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0217-contains-duplicate) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
