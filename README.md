@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
