@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
