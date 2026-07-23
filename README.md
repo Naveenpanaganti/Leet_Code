@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0509-fibonacci-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0860-lemonade-change) |
 | [1004-max-consecutive-ones-iii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Naveenpanaganti/Leet_Code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Naveenpanaganti/Leet_Code/tree/master/0693-binary-number-with-alternating-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Naveenpanaganti/Leet_Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Backtracking
 |  |
 | ------- |
